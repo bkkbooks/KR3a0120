@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3a0120_001.yaml, hash: 'sha256:11911464eb32d603c0cddd77d7d7c27395d52967f21ec8cfb36c8f6cadc53187'}
+  - {seq: 1, filename: KR3a0120_001.yaml, hash: 'sha256:85c2d799ec6824f5c18d539571a96ae36439f90df6a278fa081003338caf1ce6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3a0120_001.markers.yaml, hash: 'sha256:3ec8acab949d20cfc0f13d8932676519c1a5310e163728b414eacfe438b3fba5'}
+  - {seq: 1, role: markers, filename: assets/KR3a0120_001.markers.yaml, hash: 'sha256:25b50af2881ab529a6d8f2fbdc146db2a6dc391a4430088ddb915224715ae477'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 杜氏體論
   type: section
   level: 1
-hash: sha256:522cc8098e8f33b2983dff31392e219379ae6d738e4dd40847445eee8f9fddde
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ed2aa58141142908ddddba4dc26f1c0d5c21f252426cd5f3ef72d67075daa08d
